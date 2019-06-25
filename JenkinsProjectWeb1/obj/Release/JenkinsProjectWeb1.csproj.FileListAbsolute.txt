@@ -29,6 +29,5 @@ C:\Users\Shivana.gouda\documents\visual studio 2013\Projects\JenkinsProjectWeb1\
 C:\Users\Shivana.gouda\documents\visual studio 2013\Projects\JenkinsProjectWeb1\JenkinsProjectWeb1\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\Shivana.gouda\documents\visual studio 2013\Projects\JenkinsProjectWeb1\JenkinsProjectWeb1\bin\Microsoft.AspNet.Membership.OpenAuth.xml
 C:\Users\Shivana.gouda\documents\visual studio 2013\Projects\JenkinsProjectWeb1\JenkinsProjectWeb1\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\Shivana.gouda\documents\visual studio 2013\Projects\JenkinsProjectWeb1\JenkinsProjectWeb1\obj\Release\JenkinsProjectWeb1.csprojResolveAssemblyReference.cache
 C:\Users\Shivana.gouda\documents\visual studio 2013\Projects\JenkinsProjectWeb1\JenkinsProjectWeb1\obj\Release\JenkinsProjectWeb1.dll
 C:\Users\Shivana.gouda\documents\visual studio 2013\Projects\JenkinsProjectWeb1\JenkinsProjectWeb1\obj\Release\JenkinsProjectWeb1.pdb

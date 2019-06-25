@@ -61,7 +61,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/09/2019 12:23:00</publishTime>
     </File>
     <File Include="bin/JenkinsProjectWeb1.dll">
-      <publishTime>06/25/2019 17:23:06</publishTime>
+      <publishTime>06/25/2019 17:38:08</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>06/09/2019 12:23:04</publishTime>
@@ -400,7 +400,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/09/2019 12:23:04</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>06/25/2019 17:23:16</publishTime>
+      <publishTime>06/25/2019 17:38:17</publishTime>
     </File>
   </ItemGroup>
 </Project>
